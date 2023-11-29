@@ -1,5 +1,58 @@
 ## Monitor files and directories
 
+
+###  monitoring with inputs.conf
+
+#### Global properties 
+
+```conf
+disabled = 0
+host =
+index =
+sourcetype =
+_TCP_ROUTING = defaultGroup
+host_regex = 
+host_segment = 
+
+```
+
+#### Monitor stanza properties
+
+```conf
+
+[monitor:///opt/splunk/etc/apps/SplunkAdmin_RealTime_SampleData]
+source = input file path
+crcSalt = N/A
+ignoreOlderThan = 0 (disabled)
+followTail = 0
+whitelist = N/A
+blacklist = N/A
+recursive = true
+
+time_before_close = 3
+alwaysOpenFile = N/A
+followSymlink = true
+
+```
+
+#### Batch stanza properties
+
+```conf
+[batch://<path>]
+move_policy = sinkhole
+
+```
+
+#### To reload inputs.conf changes 
+
+```conf
+./splunk _internal call /services/data/inputs/monitor/_reload -auth
+
+```
+
+-------------------------------------------------------------
+
+
 ### Usecases
 
 #### 1) Enable & Disable input
