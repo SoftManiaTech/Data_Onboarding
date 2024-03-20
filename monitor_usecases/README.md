@@ -92,7 +92,7 @@ sourcetype = training_sourcetype
 ```conf
 [monitor:///tmp/Data_Onboarding/monitor_usecases/usecase_4/data_4-1.log]
 disabled = 0
-_TCP_ROUTING = defaultGroup
+_TCP_ROUTING = my_indexers
 
 
 [monitor:///tmp/Data_Onboarding/monitor_usecases/usecase_4/data_4-2.log]
