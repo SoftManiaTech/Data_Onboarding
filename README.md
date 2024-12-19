@@ -19,9 +19,8 @@ cd /tmp/
 ```
 Clone this repository
 ```bash
-git clone <repo_link>
+git clone https://github.com/SoftManiaTech/Data_Onboarding.git
 ```
-
 
 This repo contains the sample data & configurations related to the Data onboarding usecases for Splunk Enterprise
 
