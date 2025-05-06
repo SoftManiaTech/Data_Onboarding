@@ -157,17 +157,9 @@ crcSalt = someword
 #### 9) Ignore the data older than specified duration, only index the remaining and upcoming data 
 
 ```conf
-[monitor:///tmp/Data_Onboarding/monitor_usecases/usecase_9/data_9-1.log]
+[monitor:///tmp/Data_Onboarding/monitor_usecases/usecase_9/data_9*]
 disabled = 0
 ignoreOlderThan = 30d
-
-[monitor:///tmp/Data_Onboarding/monitor_usecases/usecase_9/data_9-2.log]
-disabled = 0
-ignoreOlderThan = 60d
-
-[monitor:///tmp/Data_Onboarding/monitor_usecases/usecase_9/data_9-3.log]
-disabled = 0
-ignoreOlderThan = 5d
 
 ```
 
@@ -204,10 +196,10 @@ blacklist1 = EventCode = "4662" Message = "Account Name:\s+(example account)"
 #### 13) Enable or Disable recursive monitoring
 
 ```conf
-[monitor:///tmp/Data_Onboarding/monitor_usecases/usecase_13/with_recursive/*]
+[monitor:///tmp/Data_Onboarding/monitor_usecases/usecase_13/with_recursive/]
 disabled = 0
 
-[monitor:///tmp/Data_Onboarding/monitor_usecases/usecase_13/without_recursive/*]
+[monitor:///tmp/Data_Onboarding/monitor_usecases/usecase_13/without_recursive/]
 disabled = 0
 recursive = false
 
