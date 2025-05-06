@@ -1,0 +1,150 @@
+data_13-3 - 11-25 16:16:04.419  2227  2227 I StackScrollAlgorithm: updateClipping isOverlap:false, getTopPadding=333.0, Translation=0.0
+data_13-3 - 11-25 16:16:04.420  2227  2227 I StackScrollAlgorithm: updateDimmedActivatedHideSensitive overlap:false
+data_13-3 - 11-25 16:16:04.459  1702  2633 D ActivityManager: Skipping, withExcluded: false, tr.intent:Intent { flg=0x10804000 cmp=com.android.systemui/.recents.RecentsActivity bnds=[264,444][920,908] }
+data_13-3 - 11-25 16:16:04.459  1702  2633 D ActivityManager: Skipping, withExcluded: false, tr.intent:Intent { act=android.intent.action.MAIN flg=0x10840000 cmp=com.android.incallui/.InCallActivity (has extras) }
+data_13-3 - 11-25 16:16:04.459  1702  2633 D ActivityManager: Skipping, withExcluded: false, tr.intent:Intent { flg=0x18800000 cmp=com.tencent.mm/.plugin.base.stub.WXEntryActivity (has extras) }
+data_13-3 - 11-25 16:16:04.459  1702  2633 D ActivityManager: Skipping, withExcluded: false, tr.intent:Intent { flg=0x10800000 cmp=com.tencent.qqmusic/.business.lockscreen.LockScreenActivity (has extras) }
+data_13-3 - 11-25 16:16:04.459  1702  2633 D ActivityManager: Skipping, withExcluded: false, tr.intent:Intent { act=com.android.contacts.action.CHOOSE_SUB dat=tel:xxxxxxxxxxx flg=0x10808000 cmp=com.android.contacts/.ChooseSubActivity (has extras) }
+data_13-3 - 11-25 16:16:04.459  1702  2633 D ActivityManager: Skipping, withExcluded: false, tr.intent:Intent { act=android.intent.action.VIEW dat=file:///storage/emulated/0/Tencent/QQfile_recv/b.apk typ=application/vnd.android.package-archive flg=0x10800000 cmp=com.android.packageinstaller/.PackageInstallerActivity (has extras) }
+data_13-3 - 11-25 16:16:04.460  1702  2633 D ActivityManager: getRecentTasks: num=20,flags=62,totalTasks=46
+data_13-3 - 11-25 16:16:04.460  1702  2633 D ActivityManager: getRecentTasks: topActivity=ComponentInfo{com.tencent.mobileqq/com.tencent.mobileqq.activity.SplashActivity}
+data_13-3 - 11-25 16:16:04.476  1702  3694 D ActivityManager: Skipping, withExcluded: false, tr.intent:Intent { flg=0x10804000 cmp=com.android.systemui/.recents.RecentsActivity bnds=[264,444][920,908] }
+data_13-3 - 11-25 16:16:04.476  1702  3694 D ActivityManager: Skipping, withExcluded: false, tr.intent:Intent { act=android.intent.action.MAIN flg=0x10840000 cmp=com.android.incallui/.InCallActivity (has extras) }
+data_13-3 - 11-25 16:16:04.476  1702  3694 D ActivityManager: Skipping, withExcluded: false, tr.intent:Intent { flg=0x18800000 cmp=com.tencent.mm/.plugin.base.stub.WXEntryActivity (has extras) }
+data_13-3 - 11-25 16:16:04.476  1702  3694 D ActivityManager: getRecentTasks: num=10,flags=62,totalTasks=46
+data_13-3 - 11-25 16:16:04.476  1702  3694 D ActivityManager: getRecentTasks: topActivity=ComponentInfo{com.tencent.mobileqq/com.tencent.mobileqq.activity.SplashActivity}
+data_13-3 - 11-25 16:16:04.540  2227  2227 I PhoneStatusBar: setSystemUiVisibility vis=c0000700 mask=ffffffff oldVal=708 newVal=c0000700 diff=c0000008 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 720, 1280), dockedStackBounds=Rect(0, 0 - 0, 0)
+data_13-3 - 11-25 16:16:04.541  2227  2227 I PhoneStatusBar: cancelAutohide
+data_13-3 - 11-25 16:16:04.541  2227  2227 I PhoneStatusBar: notifyUiVisibilityChanged:vis=0xc0000700, SystemUiVisibility=0xc0000700
+data_13-3 - 11-25 16:16:04.583  7111  7111 V AudioManager: getRingerMode...
+data_13-3 - 11-25 16:16:04.597  1702  2633 D PowerManagerService: release:lock=189667585, flg=0x0, tag="*launch*", name=android", ws=WorkSource{10057}, uid=1000, pid=1702
+data_13-3 - 11-25 16:16:04.598  1702  2633 D PowerManagerService: ready=true,policy=3,wakefulness=1,wksummary=0x0,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+data_13-3 - 11-25 16:16:04.598  1702  2633 D PowerManagerService: Releasing suspend blocker "PowerManagerService.WakeLocks".
+data_13-3 - 11-25 16:16:04.598  1702  2644 I NotificationManager: enqueueNotificationInternal: pkg=com.tencent.mm id=4097 notification=Notification(pri=1 contentView=null vibrate=[] sound=null tick defaults=0x0 flags=0x101 color=0x00000000 category=msg vis=PRIVATE)
+data_13-3 - 11-25 16:16:04.606  1702  1702 I NotificationManager: enqueueNotificationInternal: n.getKey = 0|com.tencent.mm|4097|null|10112
+data_13-3 - 11-25 16:16:04.609  1702  1702 I NotificationManager: updateLightsLocked,mInCall =false,mScreenOn = true,ledNotification == null?false
+data_13-3 - 11-25 16:16:04.609  1702  1702 I NotificationManager: updateLightsLocked,turn off notificationLight
+data_13-3 - 11-25 16:16:04.647  2227  2227 I PhoneStatusBar: addNotification key=0|com.tencent.mm|4097|null|10112
+data_13-3 - 11-25 16:16:04.765  2227  2227 I PanelView: mHeadsUpExistenceChangedRunnable
+data_13-3 - 11-25 16:16:04.769  2227  2227 D PhoneStatusBar: disable: < expand ICONS* alerts SYSTEM_INFO* back home recent clock navigationbar search quick_settings >
+data_13-3 - 11-25 16:16:04.769  2227  2227 I PhoneStatusBar: suspendAutohide
+data_13-3 - 11-25 16:16:04.772  2227  2227 I PhoneStatusBar: updateNotificationShade: total=0, active=0
+data_13-3 - 11-25 16:16:04.772  2227  2227 I PhoneStatusBar: removeNotificationChildren
+data_13-3 - 11-25 16:16:04.774  2227  2227 I PhoneStatusBar: updateNotificationShade: total=1, active=1
+data_13-3 - 11-25 16:16:04.774  2227  2227 I PhoneStatusBar: removeNotificationChildren
+data_13-3 - 11-25 16:16:04.774  1702  2107 I NotificationManager: Marking notification as seen 0|com.tencent.mm|4097|null|10112
+data_13-3 - 11-25 16:16:04.790  1702 17621 W ActivityManager: getTasks: caller 10111 does not hold REAL_GET_TASKS; limiting output
+data_13-3 - 11-25 16:16:04.791  1702  3694 W ActivityManager: getTasks: caller 10111 does not hold REAL_GET_TASKS; limiting output
+data_13-3 - 11-25 16:16:04.808  1702 27365 I NotificationManager: onNotificationExpansionChanged called
+data_13-3 - 11-25 16:16:04.816  1702  8311 I WindowManager: Destroying surface Surface(name=com.tencent.mobileqq/com.tencent.mobileqq.activity.SplashActivity) called by com.android.server.wm.WindowStateAnimator.destroySurface:2060 com.android.server.wm.WindowStateAnimator.destroySurfaceLocked:913 com.android.server.wm.WindowState.destroyOrSaveSurface:2201 com.android.server.wm.AppWindowToken.destroySurfaces:374 com.android.server.wm.AppWindowToken.notifyAppStopped:400 com.android.server.wm.WindowManagerService.notifyAppStopped:4869 com.android.server.am.ActivityStack.activityStoppedLocked:1393 com.android.server.am.ActivityManagerService.activityStopped:7690
+data_13-3 - 11-25 16:16:04.850  2227  2227 I StackScrollAlgorithm: updateClipping isOverlap:false, getTopPadding=333.0, Translation=-429.0
+data_13-3 - 11-25 16:16:04.850  2227  2227 I StackScrollAlgorithm: updateDimmedActivatedHideSensitive overlap:false
+data_13-3 - 11-25 16:16:04.858  1702  1736 W ActivityManager: getRunningAppProcesses: caller 10111 does not hold REAL_GET_TASKS; limiting output
+data_13-3 - 11-25 16:16:04.949  2227  2227 I StackScrollAlgorithm: updateClipping isOverlap:false, getTopPadding=333.0, Translation=-497.0
+data_13-3 - 11-25 16:16:04.950  2227  2227 I StackScrollAlgorithm: updateDimmedActivatedHideSensitive overlap:false
+data_13-3 - 11-25 16:16:05.061  1702  3697 W ActivityManager: getTasks: caller 10111 does not hold REAL_GET_TASKS; limiting output
+data_13-3 - 11-25 16:16:05.065  1702  2633 W ActivityManager: getTasks: caller 10111 does not hold REAL_GET_TASKS; limiting output
+data_13-3 - 11-25 16:16:05.070  1702 14638 W ActivityManager: getTasks: caller 10111 does not hold REAL_GET_TASKS; limiting output
+data_13-3 - 11-25 16:16:05.076  1702  2113 W ActivityManager: getTasks: caller 10111 does not hold REAL_GET_TASKS; limiting output
+data_13-3 - 11-25 16:16:05.079  1702 27365 W ActivityManager: getTasks: caller 10111 does not hold REAL_GET_TASKS; limiting output
+data_13-3 - 11-25 16:16:05.443  1702  2556 W ActivityManager: getRunningAppProcesses: caller 10113 does not hold REAL_GET_TASKS; limiting output
+data_13-3 - 11-25 16:16:05.512  1702  2096 I AlarmManager: sending alarm Alarm{2741459 type 3 when 509267844 PendingIntent{f75f81e: PendingIntentRecord{e204f60 com.android.phone broadcastIntent}}},repeatInterval = 0,listenerTag =null
+data_13-3 - 11-25 16:16:05.514  1702  2096 D PowerManagerService: ready=true,policy=3,wakefulness=1,wksummary=0x1,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+data_13-3 - 11-25 16:16:05.514  1702  2096 D PowerManagerService: Acquiring suspend blocker "PowerManagerService.WakeLocks".
+data_13-3 - 11-25 16:16:05.528  1702  1702 D PowerManagerService: ready=true,policy=3,wakefulness=1,wksummary=0x0,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+data_13-3 - 11-25 16:16:05.529  1702  1702 D PowerManagerService: Releasing suspend blocker "PowerManagerService.WakeLocks".
+data_13-3 - 11-25 16:16:05.579  1702  8671 D PowerManagerService: ready=true,policy=3,wakefulness=1,wksummary=0x1,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+data_13-3 - 11-25 16:16:05.579  1702  8671 D PowerManagerService: Acquiring suspend blocker "PowerManagerService.WakeLocks".
+data_13-3 - 11-25 16:16:05.590  2227  2227 I StackScrollAlgorithm: updateClipping isOverlap:false, getTopPadding=333.0, Translation=-497.0
+data_13-3 - 11-25 16:16:05.591  2227  2227 I StackScrollAlgorithm: updateDimmedActivatedHideSensitive overlap:false
+data_13-3 - 11-25 16:16:05.594  2227  2318 I PhoneStatusBar: logNotificationVisibilityChanges runInThread start
+data_13-3 - 11-25 16:16:05.595  1702  2618 I NotificationManager: onNotificationVisibilityChanged called
+data_13-3 - 11-25 16:16:05.595  2227  2318 I PhoneStatusBar: logNotificationVisibilityChanges runInThread over
+data_13-3 - 11-25 16:16:05.768  1702 14640 D PowerManagerService: ready=true,policy=3,wakefulness=1,wksummary=0x0,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+data_13-3 - 11-25 16:16:05.768  1702 14640 D PowerManagerService: Releasing suspend blocker "PowerManagerService.WakeLocks".
+data_13-3 - 11-25 16:16:06.670  1702  2105 D PowerManagerService: userActivityNoUpdateLocked: eventTime=261991304, event=2, flags=0x0, uid=1000
+data_13-3 - 11-25 16:16:06.671  1702  2105 D PowerManagerService: ready=true,policy=3,wakefulness=1,wksummary=0x0,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+data_13-3 - 11-25 16:16:06.676  2227  2227 I PanelView: onInterceptTouchEvent MotionEvent { action=ACTION_DOWN, actionButton=0, id[0]=0, x[0]=622.0, y[0]=86.0, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=261991304, downTime=261991304, deviceId=3, source=0x1002 }, mBlockTouches=false
+data_13-3 - 11-25 16:16:06.688  2227  2227 I StackScrollAlgorithm: updateClipping isOverlap:false, getTopPadding=333.0, Translation=-497.0
+data_13-3 - 11-25 16:16:06.689  2227  2227 I StackScrollAlgorithm: updateDimmedActivatedHideSensitive overlap:false
+data_13-3 - 11-25 16:16:06.733  2227  2227 I PanelView: onInterceptTouchEvent MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=622.0, y[0]=86.0, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=261991368, downTime=261991304, deviceId=3, source=0x1002 }, mBlockTouches=false
+data_13-3 - 11-25 16:16:06.733  1702  1820 I DisplayPowerController: HBM brightnessIn =38
+data_13-3 - 11-25 16:16:06.734  1702  1820 I DisplayPowerController: HBM brightnessOut =38
+data_13-3 - 11-25 16:16:06.734  1702  1820 D DisplayPowerController: Animating brightness: target=38, rate=200
+data_13-3 - 11-25 16:16:06.746  2227  2227 V AudioManager: playSoundEffect   effectType: 0
+data_13-3 - 11-25 16:16:06.746  2227  2227 V AudioManager: querySoundEffectsEnabled...
+data_13-3 - 11-25 16:16:06.756  2227  2227 I PhoneStatusBar: updateNotificationShade: total=1, active=1
+data_13-3 - 11-25 16:16:06.756  2227  2227 I PhoneStatusBar: removeNotificationChildren
+data_13-3 - 11-25 16:16:06.758  2227  2227 I PhoneStatusBar: animateCollapsePanels:flags=2, force=true, delayed=true, mExpandedVisible=true
+data_13-3 - 11-25 16:16:06.759  2227  2227 I PanelView: closeQs
+data_13-3 - 11-25 16:16:06.761  2227  2227 I PanelView: cancelPeek: false
+data_13-3 - 11-25 16:16:06.761  2227  2227 I PanelView: instantCollapse
+data_13-3 - 11-25 16:16:06.761  2227  2227 I PanelView: cancelPeek: false
+data_13-3 - 11-25 16:16:06.761  2227  2227 I PhoneStatusBar: updateNotificationShade: total=1, active=1
+data_13-3 - 11-25 16:16:06.762  2227  2227 I PhoneStatusBar: removeNotificationChildren
+data_13-3 - 11-25 16:16:06.762  2227  2318 I PhoneStatusBar: logNotificationVisibilityChanges runInThread start
+data_13-3 - 11-25 16:16:06.763  1702  8311 I NotificationManager: onNotificationVisibilityChanged called
+data_13-3 - 11-25 16:16:06.764  2227  2318 I PhoneStatusBar: logNotificationVisibilityChanges runInThread over
+data_13-3 - 11-25 16:16:06.772  1702  3137 I ActivityManager: START u0 {flg=0x24000000 cmp=com.tencent.mm/.ui.LauncherUI (has extras)} from uid 10112 on display 0
+data_13-3 - 11-25 16:16:06.773  1702  3137 I ActivityManager: ActivityRecord info: ActivityInfo{80c2e70 com.tencent.mm.ui.LauncherUI}, euid: 0
+data_13-3 - 11-25 16:16:06.774  2227  2227 I StackScrollAlgorithm: overlapAmount:220.0, previousNotificationEnd:0.0, newYTranslation:-220.0, location:4, i:0, getTopPadding:333.0, getLocationOnScreen():-553
+data_13-3 - 11-25 16:16:06.774  2227  2227 I StackScrollAlgorithm: state.clipTopAmount:204, i:0
+data_13-3 - 11-25 16:16:06.774  2227  2227 I StackScrollAlgorithm: updateClipping isOverlap:true, getTopPadding=333.0, Translation=-553.0
+data_13-3 - 11-25 16:16:06.774  2227  2227 I StackScrollAlgorithm: updateDimmedActivatedHideSensitive overlap:true
+data_13-3 - 11-25 16:16:06.781  2227  2227 D PhoneStatusBar: makeExpandedInvisible: mExpandedVisible=true
+data_13-3 - 11-25 16:16:06.782  2227  2227 I PanelView: closeQs
+data_13-3 - 11-25 16:16:06.783  2227  2227 I PanelView: cancelPeek: false
+data_13-3 - 11-25 16:16:06.783  2227  2227 I PanelView: instantCollapse
+data_13-3 - 11-25 16:16:06.783  2227  2227 I PanelView: cancelPeek: false
+data_13-3 - 11-25 16:16:06.783  2227  2227 I PhoneStatusBar: updateNotificationShade: total=1, active=1
+data_13-3 - 11-25 16:16:06.783  2227  2227 I PhoneStatusBar: removeNotificationChildren
+data_13-3 - 11-25 16:16:06.784  2227  2227 I PanelView: closeQs
+data_13-3 - 11-25 16:16:06.785  1702  3137 W ActivityManager: startActivity called from non-Activity context; forcing Intent.FLAG_ACTIVITY_NEW_TASK for: Intent { flg=0x24000000 cmp=com.tencent.mm/.ui.LauncherUI (has extras) }
+data_13-3 - 11-25 16:16:06.785  2227  2227 I PhoneStatusBar: resumeSuspendedAutohide
+data_13-3 - 11-25 16:16:06.786  2227  2227 D PhoneStatusBar: disable: < expand icons* alerts system_info* back home recent clock navigationbar search quick_settings >
+data_13-3 - 11-25 16:16:06.793  2227  2227 I StackScrollAlgorithm: overlapAmount:220.0, previousNotificationEnd:0.0, newYTranslation:-220.0, location:4, i:0, getTopPadding:333.0, getLocationOnScreen():-553
+data_13-3 - 11-25 16:16:06.794  2227  2227 I StackScrollAlgorithm: state.clipTopAmount:204, i:0
+data_13-3 - 11-25 16:16:06.794  2227  2227 I StackScrollAlgorithm: updateClipping isOverlap:true, getTopPadding=333.0, Translation=-553.0
+data_13-3 - 11-25 16:16:06.794  2227  2227 I StackScrollAlgorithm: updateDimmedActivatedHideSensitive overlap:true
+data_13-3 - 11-25 16:16:06.808  2227  2227 D PhoneStatusBar: makeExpandedInvisible: mExpandedVisible=false
+data_13-3 - 11-25 16:16:06.809  1702  3137 D PowerManagerService: acquire lock=189667585, flags=0x1, tag="*launch*", name=android, ws=WorkSource{10112}, uid=1000, pid=1702
+data_13-3 - 11-25 16:16:06.809  1702  3137 D PowerManagerService: ready=true,policy=3,wakefulness=1,wksummary=0x1,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+data_13-3 - 11-25 16:16:06.809  1702  3137 D PowerManagerService: Acquiring suspend blocker "PowerManagerService.WakeLocks".
+data_13-3 - 11-25 16:16:06.818  1702  1737 I NotificationManager: onNotificationClick called
+data_13-3 - 11-25 16:16:06.819  1702  1702 I NotificationManager: cancelNotification,index:0
+data_13-3 - 11-25 16:16:06.872  1702  2639 E ActivityManager: applyOptionsLocked: Unknown animationType=0
+data_13-3 - 11-25 16:16:06.955  1702 10454 W ActivityManager: getRunningAppProcesses: caller 10113 does not hold REAL_GET_TASKS; limiting output
+data_13-3 - 11-25 16:16:07.070  1702  8671 D ActivityManager: Skipping, withExcluded: false, tr.intent:Intent { flg=0x10804000 cmp=com.android.systemui/.recents.RecentsActivity bnds=[264,444][920,908] }
+data_13-3 - 11-25 16:16:07.070  1702  8671 D ActivityManager: Skipping, withExcluded: false, tr.intent:Intent { act=android.intent.action.MAIN flg=0x10840000 cmp=com.android.incallui/.InCallActivity (has extras) }
+data_13-3 - 11-25 16:16:07.070  1702  8671 D ActivityManager: Skipping, withExcluded: false, tr.intent:Intent { flg=0x18800000 cmp=com.tencent.mm/.plugin.base.stub.WXEntryActivity (has extras) }
+data_13-3 - 11-25 16:16:07.070  1702  8671 D ActivityManager: Skipping, withExcluded: false, tr.intent:Intent { flg=0x10800000 cmp=com.tencent.qqmusic/.business.lockscreen.LockScreenActivity (has extras) }
+data_13-3 - 11-25 16:16:07.070  1702  8671 D ActivityManager: Skipping, withExcluded: false, tr.intent:Intent { act=com.android.contacts.action.CHOOSE_SUB dat=tel:xxxxxxxxxxx flg=0x10808000 cmp=com.android.contacts/.ChooseSubActivity (has extras) }
+data_13-3 - 11-25 16:16:07.071  1702  8671 D ActivityManager: Skipping, withExcluded: false, tr.intent:Intent { act=android.intent.action.VIEW dat=file:///storage/emulated/0/Tencent/QQfile_recv/b.apk typ=application/vnd.android.package-archive flg=0x10800000 cmp=com.android.packageinstaller/.PackageInstallerActivity (has extras) }
+data_13-3 - 11-25 16:16:07.071  1702  8671 D ActivityManager: getRecentTasks: num=20,flags=62,totalTasks=46
+data_13-3 - 11-25 16:16:07.071  1702  8671 D ActivityManager: getRecentTasks: topActivity=ComponentInfo{com.tencent.mm/com.tencent.mm.ui.LauncherUI}
+data_13-3 - 11-25 16:16:07.084  1702  3694 D ActivityManager: Skipping, withExcluded: false, tr.intent:Intent { flg=0x10804000 cmp=com.android.systemui/.recents.RecentsActivity bnds=[264,444][920,908] }
+data_13-3 - 11-25 16:16:07.084  1702  3694 D ActivityManager: Skipping, withExcluded: false, tr.intent:Intent { act=android.intent.action.MAIN flg=0x10840000 cmp=com.android.incallui/.InCallActivity (has extras) }
+data_13-3 - 11-25 16:16:07.084  1702  3694 D ActivityManager: Skipping, withExcluded: false, tr.intent:Intent { flg=0x18800000 cmp=com.tencent.mm/.plugin.base.stub.WXEntryActivity (has extras) }
+data_13-3 - 11-25 16:16:07.084  1702  3694 D ActivityManager: getRecentTasks: num=10,flags=62,totalTasks=46
+data_13-3 - 11-25 16:16:07.084  1702  3694 D ActivityManager: getRecentTasks: topActivity=ComponentInfo{com.tencent.mm/com.tencent.mm.ui.LauncherUI}
+data_13-3 - 11-25 16:16:07.144  2227  2227 I PanelView: mHeadsUpExistenceChangedRunnable
+data_13-3 - 11-25 16:16:07.188  2227  2227 I StackScrollAlgorithm: updateClipping isOverlap:false, getTopPadding=333.0, Translation=-24.0
+data_13-3 - 11-25 16:16:07.188  2227  2227 I StackScrollAlgorithm: updateDimmedActivatedHideSensitive overlap:false
+data_13-3 - 11-25 16:16:07.635  1702  1820 I DisplayPowerController: HBM brightnessIn =38
+data_13-3 - 11-25 16:16:07.635  1702  1820 I DisplayPowerController: HBM brightnessOut =38
+data_13-3 - 11-25 16:16:07.635  1702  1820 D DisplayPowerController: Animating brightness: target=38, rate=200
+data_13-3 - 11-25 16:16:07.936  1702  1820 I DisplayPowerController: HBM brightnessIn =38
+data_13-3 - 11-25 16:16:07.936  1702  1820 I DisplayPowerController: HBM brightnessOut =38
+data_13-3 - 11-25 16:16:07.936  1702  1820 D DisplayPowerController: Animating brightness: target=38, rate=200
+data_13-3 - 11-25 16:16:08.237  1702  1820 I DisplayPowerController: HBM brightnessIn =38
+data_13-3 - 11-25 16:16:08.237  1702  1820 I DisplayPowerController: HBM brightnessOut =38
+data_13-3 - 11-25 16:16:08.237  1702  1820 D DisplayPowerController: Animating brightness: target=38, rate=200
+data_13-3 - 11-25 16:16:08.538  1702  1820 I DisplayPowerController: HBM brightnessIn =38
+data_13-3 - 11-25 16:16:08.538  1702  1820 I DisplayPowerController: HBM brightnessOut =38
+data_13-3 - 11-25 16:16:08.538  1702  1820 D DisplayPowerController: Animating brightness: target=38, rate=200
+data_13-3 - 11-25 16:16:08.840  1702  1820 I DisplayPowerController: HBM brightnessIn =38
+data_13-3 - 11-25 16:16:08.840  1702  1820 I DisplayPowerController: HBM brightnessOut =38
+data_13-3 - 11-25 16:16:08.840  1702  1820 D DisplayPowerController: Animating brightness: target=38, rate=200
+data_13-3 - 11-25 16:16:09.141  1702  1820 I DisplayPowerController: HBM brightnessIn =38
+data_13-3 - 11-25 16:16:09.141  1702  1820 I DisplayPowerController: HBM brightnessOut =38
+data_13-3 - 11-25 16:16:09.141  1702  1820 D DisplayPowerController: Animating brightness: target=38, rate=200
