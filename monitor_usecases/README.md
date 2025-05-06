@@ -208,7 +208,7 @@ recursive = false
 #### 14) Index the data from particualr folder & delete it as soon as the indexing/forwarding is done
 
 ```conf
-[batch://tmp/Data_Onboarding/monitor_usecases/usecase_14/batchdata/*]
+[batch://tmp/Data_Onboarding/monitor_usecases/usecase_14/batchdata/]
 disabled = 0
 move_policy = sinkhole
 
